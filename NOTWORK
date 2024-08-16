@@ -1,0 +1,2 @@
+while do true wait(0.1)
+print("NOHAVE")
